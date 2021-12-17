@@ -19,8 +19,6 @@ function missingReindeer(ids) {
   return ans;
 }
 
-// ¿Qué pasa que si el número de renos es muy grande no eres capaz de averiguarlo? :P
-
 missingReindeer([2, 0, 3]) // -> 1
 missingReindeer([5, 6, 1, 2, 3, 7, 0]) // -> 4
 missingReindeer([0, 1]) // -> 2 (¡es el último el que falta!)
