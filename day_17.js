@@ -16,8 +16,6 @@ function solution(carriers, carrierID, answer) {
   return answer;
 }
 
-// mensaje de prueba
-
 const carriers = [
   ['dapelu', 5, ['midu', 'jelowing']],
   ['midu', 2, []],
