@@ -25,7 +25,6 @@ function checkIsSameTree(treeA, treeB) {
     return answer;
   }
 
-  // console.log(revisa(treeA, treeB, true))
   return revisa(treeA, treeB, true);
 }
 
